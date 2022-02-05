@@ -1,0 +1,6 @@
+app:
+  name: kanban-ui
+  group: frontend
+  container:
+    image: ahmed7amed/kanban-ui:k8s
+    port: 80
